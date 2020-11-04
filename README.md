@@ -7,4 +7,4 @@ Useful notions :
 - Dijkstra Algorithm
 - STL
 
-INCOMING : Version with an GUI.
+INCOMING : Version with a GUI.
