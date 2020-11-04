@@ -1,0 +1,2 @@
+C,rien;V,hybrid;G,electrique;S,essence;X,electrique;E,essence;P,hybrid;B,rien;D,rien;J,hybrid;K,electrique;A,essence;U,essence;
+C,V,2;C,B,5;C,P,3;C,E,1;V,G,1;V,B,5;G,S,1;G,B,4;S,X,1;S,B,4;X,B,4;E,P,2;P,B,5;P,D,3;P,K,5;B,D,4;B,J,4;B,A,6;B,U,3;D,J,2;D,K,4;J,A,4;K,A,3;A,U,3;
